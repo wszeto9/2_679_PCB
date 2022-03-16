@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "AON6558")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AON6558.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA9517")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TCA9517DR/TCA9517.kicad_sym")(options "")(descr ""))
+)

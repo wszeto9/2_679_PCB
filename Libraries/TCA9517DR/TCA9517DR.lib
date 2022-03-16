@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TCA9517DR
+#
+DEF TCA9517DR U 0 40 Y Y 1 L N
+F0 "U" -400 439 50 H V L BNN
+F1 "TCA9517DR" -400 -557 50 H V L BNN
+F2 "SOIC127P599X175-8N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "1.75mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F5 "Texas Instruments" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "IPC-7351B" 0 0 50 H I L BNN "STANDARD"
+F7 "D" 0 0 50 H I L BNN "PARTREV"
+DRAW
+S -400 -400 400 400 0 0 10 f
+X SCLA 2 -600 0 200 R 40 40 0 0 B 
+X SCLB 7 600 0 200 L 40 40 0 0 B 
+X EN 5 -600 -200 200 R 40 40 0 0 I 
+X SDAA 3 -600 100 200 R 40 40 0 0 B 
+X SDAB 6 600 100 200 L 40 40 0 0 B 
+X VCCA 1 -600 300 200 R 40 40 0 0 W 
+X VCCB 8 600 300 200 L 40 40 0 0 W 
+X GND 4 600 -300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
