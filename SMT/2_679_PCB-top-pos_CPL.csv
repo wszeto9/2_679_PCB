@@ -93,10 +93,10 @@ R30,5.1k,R_0402_1005Metric,137.9728,-148.3888,-90,top
 R31,10K,R_0402_1005Metric,141.5796,-136.9568,-90,top
 R32,1K,R_0402_1005Metric,102.9716,-140.208,-90,top
 R33,68K,R_0402_1005Metric,115.2652,-140.208,90,top
+REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-81.28,90,top
 REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-86.36,90,top
 REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-91.44,90,top
 REF**,PinHeader_1x20_P2.54mm_Vertical,PinHeader_1x20_P2.54mm_Vertical,139.7,-93.98,90,top
-REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-81.28,90,top
 RV1,200k,Potentiometer_Bourns_TC33X_Vertical,129.7,-102.2,90,top
 RV2,200k,Potentiometer_Bourns_TC33X_Vertical,123.3408,-123.698,0,top
 SW1,SW_SPST,M2012SS2W13,116.5352,-146.7612,90,top
