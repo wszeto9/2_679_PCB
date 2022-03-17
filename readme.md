@@ -25,9 +25,9 @@ High Power throughput board for the 2.007 "Legacy" Robotics Competiton @ MIT, Sp
 ![3D Assembled](Photos/2_679_PCB.jpg)
 PCBA
 
-![Top](Photos/2_679_PCB_Top.jpg)
+![Top](Photos/2_679_PCB_TOP.jpg)
 Top
 
-![Top_unpopulated](Photos/2_679_PCB_Top_Unpopulated.jpg)
+![Top_unpopulated](Photos/2_679_PCB_TOP_unpopulated.jpg)
 Top Unpopulated Board
 
