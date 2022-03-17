@@ -15,6 +15,8 @@ C11,0.1uF,C_0402_1005Metric,195.707,-97.536,-90,top
 C12,0.1uF,C_0402_1005Metric,126.873,-96.647,90,top
 C13,1uF,C_0402_1005Metric,140.5636,-140.5408,90,top
 C14,1uF,C_0402_1005Metric,146.812,-136.4488,90,top
+C15,0.1uF,C_0402_1005Metric,110.051,-64.581,-90,top
+C16,0.1uF,C_0402_1005Metric,138.815,-67.590089,-90,top
 D1,D_Schottky,D_0402_1005Metric,133.1976,-117.5671,-90,top
 D2,LED,LED_0603_1608Metric,114.9096,-130.9116,-90,top
 D3,LED,LED_0603_1608Metric,115.5954,-134.1882,90,top
@@ -57,6 +59,14 @@ J27,RC IN,PinSocket_1x10_P2.54mm_Vertical,113.1616,-81.509,90,top
 J28,NEOPIXEL,PinHeader_1x03_P2.54mm_Vertical,140.096,-100.711,90,top
 J29,MPU6050,PinHeader_1x08_P2.54mm_Vertical,191.643,-77.47,0,top
 J30,USB_C_Receptacle_USB2.0,USB_C_Receptacle_Palconn_UTC16-G,143.8148,-148.0706,0,top
+J31,I_IN,PinSocket_1x03_P2.54mm_Vertical,103.632,-66.04,0,top
+J32,I_OUT,PinSocket_1x03_P2.54mm_Vertical,120.371,-66.025,0,top
+J33,D_OUT,PinSocket_1x03_P2.54mm_Vertical,109.718,-59.142,90,top
+J34,HALL_OUT,PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left,135.005,-65.840089,0,top
+J35,Conn_01x11_Male,PinHeader_1x11_P2.54mm_Vertical,155.575,-67.31,90,top
+J36,Conn_01x11_Male,PinHeader_1x11_P2.54mm_Vertical,155.575,-69.85,90,top
+J37,Conn_01x11_Male,PinHeader_1x11_P2.54mm_Vertical,180.975,-64.77,-90,top
+J38,Conn_01x11_Male,PinHeader_1x11_P2.54mm_Vertical,180.975,-62.23,-90,top
 JP1,Jumper_2_Bridged,PinHeader_1x02_P2.54mm_Vertical,134.874,-98.552,0,top
 JP2,Jumper_2_Bridged,PinHeader_1x02_P2.54mm_Vertical,198.125,-88.9,-90,top
 L1,2.2uH 8A,L_Abracon_ASPI-0630LR,129.8956,-111.7092,90,top
@@ -93,9 +103,9 @@ R30,5.1k,R_0402_1005Metric,137.9728,-148.3888,-90,top
 R31,10K,R_0402_1005Metric,141.5796,-136.9568,-90,top
 R32,1K,R_0402_1005Metric,102.9716,-140.208,-90,top
 R33,68K,R_0402_1005Metric,115.2652,-140.208,90,top
+REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-91.44,90,top
 REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-81.28,90,top
 REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-86.36,90,top
-REF**,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,139.7,-91.44,90,top
 REF**,PinHeader_1x20_P2.54mm_Vertical,PinHeader_1x20_P2.54mm_Vertical,139.7,-93.98,90,top
 RV1,200k,Potentiometer_Bourns_TC33X_Vertical,129.7,-102.2,90,top
 RV2,200k,Potentiometer_Bourns_TC33X_Vertical,123.3408,-123.698,0,top
@@ -108,3 +118,5 @@ U4,TCA9517DR,SOIC127P599X175-8N,198.12,-93.853,180,top
 U5,AMS1117-5.0,SOT-223-3_TabPin2,144.78,-111.887,180,top
 U6,IP2721,TSSOP-16_4.4x5mm_P0.65mm,144.8816,-141.1224,180,top
 U7,BU4SU69G2,SOT-23-5,144.2212,-136.4996,0,top
+U8,CC6920BSO-5A,SOP-8_3.9x4.9mm_P1.27mm,111.989,-69.327,90,top
+U9,DRV5033AJxDBZ,SOT-23,141.355,-68.380089,0,top
