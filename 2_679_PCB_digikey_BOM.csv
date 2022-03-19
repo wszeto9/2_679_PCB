@@ -1,0 +1,26 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Digikey
+1,1,A1,Arduino_Nano_v3.x,MCU_Module:Arduino_Nano_v3.x,Module:Arduino_Nano,http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf,1738-1026-ND
+2,1,BZ2,Buzzer,Device:Buzzer,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,https://www.digikey.com/en/products/detail/pui-audio-inc/AI-1027-TWT-5V-2-R/5011389,668-1454-ND
+11,1,D1,D_Schottky,Device:D_Schottky,Diode_SMD:D_0402_1005Metric,https://www.digikey.com/en/products/detail/comchip-technology/CDBQR0130R/1973506,641-1272-1-ND
+13,3,"D4, D5, D6",3528 ARGB LED,:SK6812MINI_1,LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW,https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BB-HRGB32M-TRB-C/13179345,2007-BB-HRGB32M-TRB-CCT-ND
+16,1,F1,20A,Device:Fuse_Small,Fuse:Fuseholder_Blade_Mini_Keystone_3568,https://www.digikey.com/en/products/detail/keystone-electronics/3568/2137306 ,36-3568-ND
+17,2,"J1, J5",POWER_IN,Connector:Screw_Terminal_01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/796949-2/2223908,796949-2-ND
+18,2,"J2,J3",ARDUINO_HEADER_1,Connector:Conn_01x15_Female,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC151LFBN-RC/810153,S7013-ND
+20,2,"J4, J18",I2C_5V,Connector:Conn_01x04_Female,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC041LFBN-RC/810144,S7002-ND
+22,20,"J6, J7, J8, J9, J10, J11, J12, J13, J19, J20, J21, J22, J23, J24, J25, J26, J31, J32, J33, J28",DC Motor Header,Connector:Conn_01x03_Female,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC031LFBN-RC/810175,S7036-ND
+23,4,"J14, J15, J16, J17",Conn_01x06_Female,Connector:Conn_01x06_Female,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC061LFBN-RC/810145,S7004-ND
+26,1,J27,RC IN,Connector:Conn_01x10_Female,Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC101LFBN-RC/810182,S7043-ND
+28,1,J29,MPU6050,Connector:Conn_01x08_Female,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,~,S7006-ND
+29,1,J30,USB_C_Receptacle_USB2.0,Connector:USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_Palconn_UTC16-G,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,2073-USB4105-GF-ACT-ND
+33,1,J34,HALL_OUT,Connector:Conn_01x03_Female,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left,~,S5595-ND
+34,4,"J35, J36, J37, J38",Conn_01x11_Male,Connector:Conn_01x11_Male,Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical,~,S7009-ND
+35,2,"JP1, JP2",Jumper_2_Bridged,Jumper:Jumper_2_Bridged,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,S9000-ND
+37,1,L1,2.2uH 8A,pspice:INDUCTOR,Inductor_SMD:L_Abracon_ASPI-0630LR,https://www.digikey.com/en/products/detail/sumida-america-components-inc/0630CDMCCDS-2R2MC/5812456,308-2464-1-ND
+47,1,R10,R_Photo,Device:R_Photo,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC021LFBN-RC/810142,S7000-ND
+51,2,"RV1, RV2",200k,Device:R_Potentiometer_Small,Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical,~,TC33X-2-204ECT-ND
+52,1,SW1,SW_SPST,Switch:SW_SPST,Switch:M2012SS2W13,https://www.digikey.com/en/products/detail/nkk-switches/M2012SS2W13/1052259,360-2840-ND
+53,1,SW2,SW_Push_Open,Switch:SW_Push_Open,Button_Switch_SMD:SW_SPST_CK_RS282G05A3,https://www.digikey.com/en/products/detail/c-k/PTS636-SK25J-SMTR-LFS/10071739,CKN12326-1-ND
+57,1,U1,SP7652ER-L/TR,2022-03-08_23-16-42:SP7652ER-L{slash}TR,sp7652:SP7652ER-L&slash_TR,https://www.digikey.com/en/products/detail/maxlinear-inc/SP7652ER-L-TR/2472248?s=N4IgTCBcDaIMoAUDsA2ArGAogJQLQBkB6AFWxAF0BfIA,1016-1843-1-ND
+58,1,U2,AON6558,AON6558:AON6558,Package_DFN_QFN:DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm,https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AON6558/4764695?s=N4IgTCBcDaIIIHkByA2ArGgHCAugXyA,785-1670-1-ND
+59,1,U3,LMV331,Comparator:LMV331,Package_TO_SOT_SMD:SOT-23-5,https://www.digikey.com/en/products/detail/texas-instruments/LMV331M5X-NOPB/334971,LMV331M5X/NOPBCT-ND
+63,1,U7,BU4SU69G2,74xGxx:74LVC1GU04DRL,Package_TO_SOT_SMD:SOT-23-5,https://www.digikey.com/en/products/detail/rohm-semiconductor/BU4SU69G2-TR/658725,BU4SU69G2CT-ND
