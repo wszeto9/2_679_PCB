@@ -1,6 +1,8 @@
 # 2.679/2.007 Carrier Board
 High Power throughput board for the 2.007 "Legacy" Robotics Competiton @ MIT, Spring 2022
 
+[Interactive BOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wszeto9/2_679_PCB/main/bom/ibom.html)
+
 <h2> Features:</h2>
 <ul>
 <li>20A socketable fused input</li>
