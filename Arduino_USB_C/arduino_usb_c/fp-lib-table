@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/Winnie/Documents/Classwork/S22/2.679/PCB/2_679_PCB/Libraries/footprints.pretty")(options "")(descr ""))
+  (lib (name "Switch")(type "KiCad")(uri "C:/Users/Winnie/Documents/Classwork/S22/2.679/PCB/2_679_PCB/Libraries/Switch.pretty")(options "")(descr ""))
+)
